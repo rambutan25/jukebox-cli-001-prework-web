@@ -10,3 +10,8 @@ songs = [
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
 
+
+
+def exit_jukebox
+  puts "Goodbye"
+end
